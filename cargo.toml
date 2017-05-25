@@ -7,3 +7,8 @@ authors = ["3442853561"]
 [[bin]]
 name = "interception"
 path = "./src/interception.rs"
+
+
+[[bin]]
+name = "u8"
+path = "./src/u8.rs"
