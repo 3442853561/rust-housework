@@ -8,6 +8,9 @@ authors = ["3442853561"]
 name = "interception"
 path = "./src/interception.rs"
 
+[[bin]]
+name = "palindrome"
+path = "./src/palindrome.rs"
 
 [[bin]]
 name = "u8"
