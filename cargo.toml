@@ -17,5 +17,9 @@ name = "palindrome"
 path = "./src/palindrome.rs"
 
 [[bin]]
+name = "read_clone"
+path = "./src/read_clone.rs"
+
+[[bin]]
 name = "u8"
 path = "./src/u8.rs"
