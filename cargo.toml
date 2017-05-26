@@ -5,6 +5,10 @@ license = "MIT"
 authors = ["3442853561"]
 
 [[bin]]
+name = "array"
+path = "./src/array.rs"
+
+[[bin]]
 name = "interception"
 path = "./src/interception.rs"
 
