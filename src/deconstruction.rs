@@ -14,12 +14,6 @@ macro_rules! deconstruction {
 fn main() {
     let foo = vec![(1,((1,2),(3,4))),(1,((1,2),(3,4)))];
     deconstruction!(foo,(e,((f,g),(h,j))),e,f,g,h,j);
-    let m = vec![vec![1], vec![2, 3], vec![4, 5, 6], vec![7, 8, 9, 10]];
-    for i in m {
-        for j in i {
-            foo.push(j);
-        }
-    }
     for i in foo {
         print!("{} ", i);
     }
