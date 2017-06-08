@@ -9,6 +9,10 @@ name = "array"
 path = "./src/array.rs"
 
 [[bin]]
+name = "deconstruction"
+path = "./src/deconstruction.rs"
+
+[[bin]]
 name = "interception"
 path = "./src/interception.rs"
 
