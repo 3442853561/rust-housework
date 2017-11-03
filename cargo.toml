@@ -21,6 +21,10 @@ name = "interception"
 path = "./src/interception.rs"
 
 [[bin]]
+name = "get_variant"
+path = "./src/get_variant.rs"
+
+[[bin]]
 name = "palindrome"
 path = "./src/palindrome.rs"
 
