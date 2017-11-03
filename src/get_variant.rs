@@ -5,11 +5,11 @@ struct Variant {
     variant: String,
 }
 
-trait GetVariant<T> {
+trait GetVariant {
     fn get_variant(&self) -> Variant;
 }
 
-impl<T: Debug> GetVariant<T> for Option<T> {
+impl<T> GetVariant for Option<T> {
     fn get_variant(&self) -> Variant {
         let this_variant = format!("{:?}", self);
         let mut result = "".to_string();
