@@ -22,3 +22,9 @@ impl<T> SameTag<T> for Option<T> {
 fn main() {
     println!("{}", Some(1).same_tag(&Some(2)));
 }
+
+// use std::mem;
+// enum Foo { A(&'static str), B(i32), C(i32) }
+// assert!(mem::discriminant(&Foo::A("bar")) == mem::discriminant(&Foo::A("baz")));
+// assert!(mem::discriminant(&Foo::B(1))     == mem::discriminant(&Foo::B(2)));
+// assert!(mem::discriminant(&Foo::B(3))     != mem::discriminant(&Foo::C(3)));
