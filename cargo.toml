@@ -41,5 +41,9 @@ name = "sametag"
 path = "./src/sametag.rs"
 
 [[bin]]
+name = "typeid"
+path = "./src/typeid.rs"
+
+[[bin]]
 name = "u8"
 path = "./src/u8.rs"
