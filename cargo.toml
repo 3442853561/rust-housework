@@ -40,6 +40,11 @@ path = "./src/read_clone.rs"
 name = "sametag"
 path = "./src/sametag.rs"
 
+
+[[bin]]
+name = "to_string"
+path = "./src/to_string.rs"
+
 [[bin]]
 name = "typeid"
 path = "./src/typeid.rs"
