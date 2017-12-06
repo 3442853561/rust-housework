@@ -13,6 +13,10 @@ name = "deconstruction"
 path = "./src/deconstruction.rs"
 
 [[bin]]
+name = "display"
+path = "./src/display.rs"
+
+[[bin]]
 name = "float"
 path = "./src/float.rs"
 
