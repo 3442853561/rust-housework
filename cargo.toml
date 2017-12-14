@@ -37,6 +37,10 @@ name = "rain"
 path = "./src/rain.rs"
 
 [[bin]]
+name = "rightbuttons"
+path = "./src/rightbuttons.rs"
+
+[[bin]]
 name = "read_clone"
 path = "./src/read_clone.rs"
 
