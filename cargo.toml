@@ -29,6 +29,10 @@ name = "get_variant"
 path = "./src/get_variant.rs"
 
 [[bin]]
+name = "macro_use"
+path = "./src/macro_use.rs"
+
+[[bin]]
 name = "palindrome"
 path = "./src/palindrome.rs"
 
