@@ -5,6 +5,10 @@ license = "MIT"
 authors = ["3442853561"]
 
 [[bin]]
+name = "BillyHerrington_extends_Fucker"
+path = "./src/BillyHerrington_extends_Fucker.rs"
+
+[[bin]]
 name = "array"
 path = "./src/array.rs"
 
