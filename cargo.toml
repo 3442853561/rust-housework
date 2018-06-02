@@ -21,6 +21,10 @@ name = "display"
 path = "./src/display.rs"
 
 [[bin]]
+name = "expect_output"
+path = "./src/expect_output.rs"
+
+[[bin]]
 name = "float"
 path = "./src/float.rs"
 
