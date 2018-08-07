@@ -29,12 +29,12 @@ name = "float"
 path = "./src/float.rs"
 
 [[bin]]
-name = "interception"
-path = "./src/interception.rs"
-
-[[bin]]
 name = "get_variant"
 path = "./src/get_variant.rs"
+
+[[bin]]
+name = "interception"
+path = "./src/interception.rs"
 
 [[bin]]
 name = "leer"
@@ -63,7 +63,6 @@ path = "./src/read_clone.rs"
 [[bin]]
 name = "sametag"
 path = "./src/sametag.rs"
-
 
 [[bin]]
 name = "to_string"
