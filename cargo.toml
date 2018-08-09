@@ -45,6 +45,10 @@ name = "macro_use"
 path = "./src/macro_use.rs"
 
 [[bin]]
+name = "numero_entero"
+path = "./src/numero_entero.rs"
+
+[[bin]]
 name = "palindrome"
 path = "./src/palindrome.rs"
 
