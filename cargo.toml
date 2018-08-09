@@ -37,6 +37,10 @@ name = "interception"
 path = "./src/interception.rs"
 
 [[bin]]
+name = "interpretador"
+path = "./src/interpretador.rs"
+
+[[bin]]
 name = "leer"
 path = "./src/leer.rs"
 
