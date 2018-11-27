@@ -13,6 +13,10 @@ name = "array"
 path = "./src/array.rs"
 
 [[bin]]
+name = "cats"
+path = "./src/cats.rs"
+
+[[bin]]
 name = "deconstruction"
 path = "./src/deconstruction.rs"
 
