@@ -49,6 +49,10 @@ name = "leer"
 path = "./src/leer.rs"
 
 [[bin]]
+name = "macro_default_value"
+path = "./src/macro_default_value.rs"
+
+[[bin]]
 name = "macro_use"
 path = "./src/macro_use.rs"
 
