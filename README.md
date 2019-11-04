@@ -1,5 +1,5 @@
 # Rust-housework
-Endless examples for ![Rust](http://latex.codecogs.com/gif.latex?%24%5Ccolor%7Bred%7D%7BRust%7D%24)
+Endless examples for ![Rust](http://latex.codecogs.com/gif.latex?%24%5Ccolor%7Bred%7D%5Ctextbf%7BRust%7D%24)
 </svg>
 
 ## Origin
