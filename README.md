@@ -1,5 +1,7 @@
 # Rust-housework
-Endless examples for <a class="absent">Rust</a>
+Endless examples for <svg width="53" height="25" xmlns="http://www.w3.org/2000/svg">
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="21" x="1.66406" stroke-width="0" stroke="#000" fill="#ff0000">Rust</text>
+</svg>
 
 ## Origin
 At first there was nothing in this project. There was only endless as well as messy issues. Contributors said, Let there be order: and it was so. And Contributors, looking on the order, saw that it was good: and Contributors made a division between the order and the mess, Naming the order, Answer, and the mess, Issue.
