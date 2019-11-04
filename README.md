@@ -1,11 +1,5 @@
-<style>
-  span {
-    color: #FF0000;
-    font-weight: bold;
-  }
-</style>
 # Rust-housework
-Endless examples for <span>Rust</span>
+Endless examples for Rust
 
 ## Origin
 At first there was nothing in this project. There was only endless as well as messy issues. Contributors said, Let there be order: and it was so. And Contributors, looking on the order, saw that it was good: and Contributors made a division between the order and the mess, Naming the order, Answer, and the mess, Issue.
