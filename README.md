@@ -1,6 +1,5 @@
 # Rust-housework
-Endless examples for <svg width="53" height="25" xmlns="http://www.w3.org/2000/svg">
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="21" x="1.66406" stroke-width="0" stroke="#000" fill="#ff0000">Rust</text>
+Endless examples for ![Rust](http://latex.codecogs.com/gif.latex?%24%5Ccolor%7Bred%7D%7BRust%7D%24)
 </svg>
 
 ## Origin
