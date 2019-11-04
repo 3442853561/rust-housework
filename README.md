@@ -1,5 +1,5 @@
 # Rust-housework
-Endless examples for Rust
+Endless examples for <font color=#ff0000 size=12>Rust</font>
 
 ## Origin
 At first there was nothing in this project. There was only endless as well as messy issues. Contributors said, Let there be order: and it was so. And Contributors, looking on the order, saw that it was good: and Contributors made a division between the order and the mess, Naming the order, Answer, and the mess, Issue.
